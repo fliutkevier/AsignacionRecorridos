@@ -1,0 +1,14 @@
+# Compilación y empaquetado (PyInstaller)
+build/
+dist/
+recorridos.spec
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos específicos solicitados
+README.md
+recorridos.bat
